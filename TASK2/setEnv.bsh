@@ -1,0 +1,3 @@
+export REDIS_HOST=river-hypnotic-yarn-78806.db.redis.io
+export REDIS_PORT=19665
+export REDIS_PASSWORD='aufHa9M4LzlqOy0OUE8NKqmz93ymTFrs'
